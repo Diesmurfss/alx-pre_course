@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "School"
+mv echo "The school is open!"
